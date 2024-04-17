@@ -3,6 +3,6 @@
 
 
 
-neko-wish: tell the fairy cat your wishes\
-database: firebase\
-link to web app: <https://neko-wish.netlify.app/>
+## tell the fairy cat your wishes
+
+
